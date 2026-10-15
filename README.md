@@ -1,14 +1,13 @@
 > [!CAUTION]
-> This is the public issues tracker for https://github.com/tinam02/henehoe  
-> Please use this repo for bugs, feature requests, and general questions only.  
+> **This is the public issues tracker for https://github.com/tinam02/henehoe**  
+> Pls use this repo for bugs, feature requests, and general questions only.  
 > @@@@  
 > @@@@  
 > @@@@  
-
+> IF YOU WANT TO BE A COLLABORATOR ON THE MAIN REPO CONTACT ME
 
 <p align="center">
-  
-<img width="340" height="156" alt="banner" src="https://github.com/user-attachments/assets/5238f162-7526-4057-ba5a-ec3aa65684d6" />
+  <img src="/banner.png" alt="Henehoe" width="340">
 </p>
 
 <p align="center">
@@ -29,7 +28,7 @@
 - Export as PNG / GIF, import from JSON
 
 <p align="center">
-<img width="683" height="431" alt="out" src="https://github.com/user-attachments/assets/45e7236d-ccc7-444f-932f-941c687c0f75" />
+  <img src="/out.png"  width="752">
 </p>
 
 
