@@ -4,7 +4,6 @@
 > @@@@  
 > @@@@  
 > @@@@  
-> IF YOU WANT TO BE A COLLABORATOR ON THE MAIN REPO CONTACT ME
 
 <p align="center">
   <img src="/banner.png" alt="Henehoe" width="340">
