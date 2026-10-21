@@ -1,6 +1,6 @@
 > [!CAUTION]
 > **This is the public issues tracker for https://github.com/tinam02/henehoe**  
-> Pls use this repo for bugs, feature requests, and general questions only.  
+> Pls use this repo for bugs, feature/map requests, and general questions only.  
 > @@@@  
 > @@@@  
 > @@@@  
@@ -25,6 +25,8 @@
 - Several characters on one stage, each dragged where you want
 - Speech balloons and labels
 - Export as PNG / GIF, import from JSON
+- Clutter-layering mode
+- Animated maps
 
 <p align="center">
   <img src="/out.png"  width="752">
@@ -33,7 +35,7 @@
 
 ## Stack
 
-- Next.js 14 | TS | React 18 | Mantine | typestyle | SCSS | [WzComparerR2](https://github.com/Kagamia/WzComparerR2)
+- Next.js 14 | TS | Lua | React 18 | Mantine | typestyle | SCSS | [WzComparerR2](https://github.com/Kagamia/WzComparerR2)
 
 
 ## Disclaimer
